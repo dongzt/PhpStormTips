@@ -44,3 +44,21 @@ To disable the lens, clear the checkbox on the context menu of the code analysis
 要禁用镜头，请清除代码分析标记的上下文菜单上的复选框：
 
 ![071](img/071.png)
+
+8.To select multiple fragments in the "column mode", press and hold Control+Alt+Shift(on Windows and Linux) or Cmd+Alt+Shift(on macOS), and drag your mouse:
+
+要在“列模式”中选择多个片段，请按住Control + Alt + Shift（在Windows和Linux上）或Cmd + Alt + Shift（在macOS上），然后拖动鼠标：
+
+![080](img/080.png)
+
+9.You can easily select multiple text fragments. To do that, keep Alt+Shift pressed and drag your mouse across the text:
+
+您可以轻松选择多个文本片段。为此，请按住Alt + Shift并在文本上拖动鼠标：
+
+![090](img/090.png)
+
+10.  To select several words, press Alt, position the caret at each word to be selected and double-click the left mouse button.
+
+要选择多个单词，请按Alt键，将插入符号放在要选择的每个单词上，然后双击鼠标左键。
+
+![100](img/100.png)
